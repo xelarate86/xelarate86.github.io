@@ -7,5 +7,4 @@ Come back later.
 Working on finding the perfect theme to adapt!
 
 **Badges Testing**:
-https://img.shields.io/github/languages/code-size/xelarate86/xelarate86.github.io.svg?style=flat
-
+![](https://img.shields.io/github/languages/code-size/xelarate86/xelarate86.github.io.svg?style=flat)
